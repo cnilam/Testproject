@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class cutpaste {
 	public static void main(String args[])
 	{
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\Pankaj\\workspace\\selenium\\chromejar\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\Pankaj\\workspace\\selenium2\\chromedriver_win32 (1)\\chromedriver.exe");
 		  WebDriver driver= new ChromeDriver();	  
 		  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	//driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);

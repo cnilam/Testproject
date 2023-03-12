@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53817" started-at="2023-03-11T11:03:46Z" finished-at="2023-03-11T11:04:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53817" started-at="2023-03-11T11:03:46Z" finished-at="2023-03-11T11:04:40Z">
+      <class name="com.testng.Search">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.testng.Search@4678c730]" name="Setup" is-config="true" duration-ms="30833" started-at="2023-03-11T16:33:46Z" finished-at="2023-03-11T16:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifySearchWithValidProduct()[pri:1, instance:com.testng.Search@4678c730]" name="verifySearchWithValidProduct" duration-ms="2213" started-at="2023-03-11T16:34:17Z" finished-at="2023-03-11T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.testng.Search@4678c730]" name="TearDown" is-config="true" duration-ms="1060" started-at="2023-03-11T16:34:19Z" finished-at="2023-03-11T16:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.testng.Search@4678c730]" name="Setup" is-config="true" duration-ms="7378" started-at="2023-03-11T16:34:20Z" finished-at="2023-03-11T16:34:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifySearchWithInValidProduct()[pri:2, instance:com.testng.Search@4678c730]" name="verifySearchWithInValidProduct" duration-ms="904" started-at="2023-03-11T16:34:27Z" finished-at="2023-03-11T16:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInValidProduct -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.testng.Search@4678c730]" name="TearDown" is-config="true" duration-ms="976" started-at="2023-03-11T16:34:28Z" finished-at="2023-03-11T16:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.testng.Search@4678c730]" name="Setup" is-config="true" duration-ms="8462" started-at="2023-03-11T16:34:29Z" finished-at="2023-03-11T16:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifySearchWithOUTProductName()[pri:3, instance:com.testng.Search@4678c730]" name="verifySearchWithOUTProductName" duration-ms="871" started-at="2023-03-11T16:34:38Z" finished-at="2023-03-11T16:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithOUTProductName -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.testng.Search@4678c730]" name="TearDown" is-config="true" duration-ms="1062" started-at="2023-03-11T16:34:39Z" finished-at="2023-03-11T16:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.testng.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
